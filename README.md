@@ -1,4 +1,4 @@
-# cli_notes-app
+# 💛cli_notes-app💛
 This is a notes app created using nodejs which uses command line to parform operation add, remove, list, read.
 - To Add <br>
 - node app.js add --title="t" --body="" <br>
